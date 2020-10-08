@@ -1,3 +1,2 @@
 # Hangman
-
-hangman
+print("Doamneajuta")
